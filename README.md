@@ -1,5 +1,7 @@
 # Hugo — Your AI Home Manager That Knows Every Inch of Your House
 
+> ⚠️ **DRAFT** — This specialist was created on Feb 17, 2026 and has not yet been manually reviewed. Content, structure, and instructions may change.
+
 Every home maintenance app sends generic reminders. Hugo knows **your home** — the furnace you installed in 2019, the gutter that leaks on the north side, the plumber who did great work last spring, and the water heater that's entering its final years. He keeps your house running because he never forgets.
 
 ## The Problem
